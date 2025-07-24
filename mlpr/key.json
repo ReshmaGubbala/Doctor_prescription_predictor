@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "multilingual-recognition",
+  "private_key_id": "c0582613adb2003594c5e94673b1b4318d748cd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDD+vLJy4ncIjF2\npr8jdtoZKoDhrjEL4PG4LpRoGM1s8hijE9UToNImfW4TBpt9e/WIY3Uqa3Uq11aQ\no0TlizxJh3czd01LOzFEgXMxSGqONlKKYQ+L0nFO3rGwiQFNUBoS2fujNk8sJsXc\nE0PVrMv7L6+JmKxZJ0gQ6tl13+8oeE7Sfkt5U5dIUVcKTiytgLGAEi7EUVD07QwW\n/cvlk7wluvv73rGqMqx67qtdwgSpYI0mykwYQ7ZHiGl8HTY98BmmLhAAhDZ8E5Pg\nGqzs1mbU3EsYW+V8WtUi9ddEgYhte3G+MH/L1+4qjMugBDHSrafbJ0UCFkkWhrr7\nIb15tPKtAgMBAAECggEAL2kxvBTD5J/XBIPBYMR7bbQlGrOnxN5ly69lEqvRYoZM\n5ILDPOzeehZE/1BNZHWNCDI7YYg+f585n2MII1nkO0uM0EQPzF/lAtQoOGdy87V7\nkWN6vdIqvDBOn0z9piT3MdFPOYRFcgJtQljcw7/6VumJ10k6hJTmr8UI16XVdx36\n1p154aw3el3isPBMWO8do+vT58PLUHNupzS2iF9Xh4W1xKgygJTO4TJf9w5ifchw\nyKF3qEzzpYl54fIK5HCjH03gf+Aou3mgAXAm+EnilOOmRAqNrEAoWJ8h2dr9f7Wv\nhUUIYnmNZvIgXfLkbPsCk5FIEPNTFm5aClEgVOXT8QKBgQD3YiV2sDgsTPLhdOTx\n7smBRTDFXVCau81P2mkru+isUMnySwMqAHXpV8s+2uERdN/XxKqXEbkRm5yRqje9\nGTuSkKk6Td6kOp55yAjYp6Lw/NSq1e+W7XbHzZpiE6g/ci7WJpGWXjRwgS+PLpfO\nKvN6dyjXVSquMrr0L9JYrKXSVQKBgQDKznQo5m2cZeAumuB+UuVLY2z83rIwP7dJ\nrkGmuZ6Ikmu5kojKfYOkuYBtUdfbzCvMoCG4iH1SrZk6o8pRHZuxXZDqbzLpMCZ7\nuY9Ggpf36QdXR+AkC/V5E6XnOE+o7lSSkSD8/XORrPTXfeimNukM92zB8SqsiMDH\n8BkW7Kfm+QKBgFeeX36GM58dMflAmcZGuQAcLYX54w6q7bEWvqFK0MIXay9x+hDq\nUNjwy3/brlOsfYvCkFkpYc8munGtREipozvqGMYZxn2MdYzUmK2D0mZgZkKLu2xN\ndwCVhdSu+axfGM+ooXAMta4TU3D3I7VV6R67DbAW7iL8vNK4DVxy6dhxAoGBALbn\nz7d7amvdLXyazdDgLk/5kbfVmNsO+90FvcwCKEp/04v/7kLBRFLxwjPV1lozH2Vj\nHkZxQqWoT0OlqLfTfjFOc34bX80TUgHP7rnm2ewKTEaZWjroVjEmWT/Zd26h08CE\nBz5jzzEYzZDzyzjs2O6Kz5lyScxlYYhwsBAOy7bxAoGBAM907r+J4fB8qtj3NyBG\ntZd4wqGnT8ENbDXauTRuoxsIoa1IYVjrTAPzTb8dYYgHk6OfNqJNB7tnVtTfPeTT\nnAp0xdiGW6f4RVsj24eMlCnyooN0QE0cGBQgyh/uGp+aEH9d77ywTRYT/CUYsUWu\nsdUsAvEkLVXJHlrpSm3Gycbs\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocr-service@multilingual-recognition.iam.gserviceaccount.com",
+  "client_id": "117068738892424901884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-service%40multilingual-recognition.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

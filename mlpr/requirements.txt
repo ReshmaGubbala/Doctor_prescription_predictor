@@ -1,4 +1,0 @@
-google-cloud-vision
-google-cloud-translate
-streamlit
-Pillow
